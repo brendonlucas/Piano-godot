@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://clbo4hr0brmpe"]
+
+[ext_resource type="Script" uid="uid://jbvq10wilvph" path="res://instances/scripts/block_note.gd" id="1_8julf"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_o35ww"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8julf"]
+albedo_color = Color(0.398952, 0.8589913, 0.4263529, 1)
+grow = true
+
+[sub_resource type="BoxMesh" id="BoxMesh_8julf"]
+material = SubResource("StandardMaterial3D_8julf")
+
+[node name="Block_note" type="Area3D" unique_id=1217746566 groups=["notas"]]
+script = ExtResource("1_8julf")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=158396357]
+transform = Transform3D(0.7, 0, 0, 0, 0.7, 0, 0, 0, 0.7, 0, 0, 0)
+shape = SubResource("BoxShape3D_o35ww")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=714100322]
+transform = Transform3D(0.7, 0, 0, 0, 0.7, 0, 0, 0, 0.7, 0, 0, 0)
+mesh = SubResource("BoxMesh_8julf")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

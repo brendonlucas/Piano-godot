@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://dlob6vp5nt226"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_f4f22"]
+albedo_color = Color(0.32958916, 0.13543534, 0.07279942, 1)
+grow = true
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_f4f22"]
+material = SubResource("StandardMaterial3D_f4f22")
+
+[node name="Base_spawn_note" type="Node3D" unique_id=1379842064]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1615600497]
+transform = Transform3D(1, 0, 0, 0, 0.07018083, 0, 0, 0, 1, 0, 0, 0)
+mesh = SubResource("CylinderMesh_f4f22")

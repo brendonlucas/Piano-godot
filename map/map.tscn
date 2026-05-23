@@ -1,0 +1,42 @@
+[gd_scene format=3 uid="uid://br4b4gouu1d81"]
+
+[ext_resource type="Texture2D" uid="uid://dwin0mmicmeck" path="res://images/Height.bmp" id="1_a0dt8"]
+[ext_resource type="Script" uid="uid://cs2jpyg1oc3ea" path="res://map/map_controler.gd" id="1_lgq1i"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_beun2"]
+albedo_texture = ExtResource("1_a0dt8")
+uv1_scale = Vector3(25, 50, 1)
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_hgrid"]
+material = SubResource("StandardMaterial3D_beun2")
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_hgrid"]
+
+[sub_resource type="Sky" id="Sky_a0dt8"]
+sky_material = SubResource("ProceduralSkyMaterial_hgrid")
+
+[sub_resource type="Environment" id="Environment_4hjbm"]
+background_mode = 2
+sky = SubResource("Sky_a0dt8")
+glow_enabled = true
+glow_intensity = 5.53
+glow_bloom = 0.1
+
+[node name="Map" type="Node3D" unique_id=17269089]
+
+[node name="Node" type="Node3D" parent="." unique_id=1557043933]
+script = ExtResource("1_lgq1i")
+
+[node name="floor" type="MeshInstance3D" parent="." unique_id=2111391429]
+transform = Transform3D(50, 0, 0, 0, 100, 0, 0, 0, 100, 0, 0, 0)
+mesh = SubResource("PlaneMesh_hgrid")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=2038057623]
+transform = Transform3D(1, 0, 0, 0, 0.6326918, 0.77440375, 0, -0.77440375, 0.6326918, 0.695673, 21.439455, 18.994862)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1737451634]
+environment = SubResource("Environment_4hjbm")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=560786830]
+transform = Transform3D(1, 0, 0, 0, 0.6766318, 0.7363215, 0, -0.7363215, 0.6766318, 0, 9.112574, 0)
+shadow_enabled = true

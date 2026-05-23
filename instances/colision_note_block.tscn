@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://cp8rp2fl3mp4n"]
+
+[ext_resource type="Script" uid="uid://b1tdinvomjpng" path="res://instances/colision_note_block.gd" id="1_20upc"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_x6n7d"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_x6n7d"]
+
+[node name="Colision_note_block" type="StaticBody3D" unique_id=139469248]
+script = ExtResource("1_20upc")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=766925458]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
+shape = SubResource("BoxShape3D_x6n7d")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1363816783]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
+mesh = SubResource("BoxMesh_x6n7d")
+
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="." unique_id=1471212255]

@@ -1,0 +1,277 @@
+[gd_scene format=3 uid="uid://dlwm0s6688et6"]
+
+[ext_resource type="Script" uid="uid://d0l0lq4fr3221" path="res://interface/scripts/menu.gd" id="1_naunn"]
+
+[sub_resource type="Animation" id="Animation_naunn"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_sj848"]
+resource_name = "slide_list"
+length = 0.15
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.13333334),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
+}
+tracks/1/type = "method"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0.13333334),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"show"
+}]
+}
+
+[sub_resource type="Animation" id="Animation_uwb57"]
+resource_name = "fade_out"
+length = 0.15
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.13333334),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0)]
+}
+tracks/1/type = "method"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0.13333334),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"hide"
+}]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_uwb57"]
+_data = {
+&"RESET": SubResource("Animation_naunn"),
+&"fade_in": SubResource("Animation_sj848"),
+&"fade_out": SubResource("Animation_uwb57")
+}
+
+[sub_resource type="Animation" id="Animation_f3nrr"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_hobu1"]
+resource_name = "fade_in"
+length = 0.2
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
+}
+tracks/1/type = "method"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"show"
+}]
+}
+
+[sub_resource type="Animation" id="Animation_ri30e"]
+resource_name = "fade_out"
+length = 0.2
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0)]
+}
+tracks/1/type = "method"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0.2),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"hide"
+}]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_0g5nf"]
+_data = {
+&"RESET": SubResource("Animation_f3nrr"),
+&"fade_in": SubResource("Animation_hobu1"),
+&"fade_out": SubResource("Animation_ri30e")
+}
+
+[node name="menu" type="Control" unique_id=1719197949]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_naunn")
+
+[node name="menu_btns" type="Control" parent="." unique_id=750952102]
+layout_mode = 1
+anchor_right = 0.25
+anchor_bottom = 0.5
+
+[node name="ColorRect" type="ColorRect" parent="menu_btns" unique_id=1902367681]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 0.142
+anchor_right = 1.0
+anchor_bottom = 1.1420001
+offset_top = -0.008003235
+offset_bottom = -0.008026123
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 1, 1, 0.019607844)
+
+[node name="BTN_list" type="Button" parent="menu_btns" unique_id=221820739]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 0.21100001
+anchor_right = 1.0
+anchor_bottom = 0.307
+offset_left = 30.0
+offset_top = 0.13599396
+offset_right = -28.0
+offset_bottom = 0.03199768
+grow_horizontal = 2
+grow_vertical = 2
+text = "Musicas"
+
+[node name="BTN_start" type="Button" parent="menu_btns" unique_id=1235519202]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 0.84000003
+anchor_right = 1.0
+anchor_bottom = 0.9480001
+offset_left = 30.0
+offset_top = -0.16000366
+offset_right = -28.0
+offset_bottom = -0.15203857
+grow_horizontal = 2
+grow_vertical = 0
+disabled = true
+text = "Start Music"
+
+[node name="BTN_stop" type="Button" parent="menu_btns" unique_id=2071667208]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 0.97800004
+anchor_right = 1.0
+anchor_bottom = 1.0860001
+offset_left = 30.0
+offset_top = 0.12799072
+offset_right = -28.0
+offset_bottom = 0.13598633
+grow_horizontal = 2
+grow_vertical = 0
+text = "Stop Music"
+
+[node name="music_list" type="Control" parent="." unique_id=1041435001]
+visible = false
+layout_mode = 1
+anchor_left = 0.261
+anchor_top = 0.071
+anchor_right = 1.0
+anchor_bottom = 0.94000006
+offset_left = 0.32800293
+offset_top = -0.008003235
+offset_right = -509.00153
+offset_bottom = -0.12005615
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="music_list" unique_id=1979714463]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 1, 1, 0.019607844)
+
+[node name="ItemList" type="ItemList" parent="music_list/ColorRect" unique_id=1590527955]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="music_list" unique_id=1800147630]
+libraries/ = SubResource("AnimationLibrary_uwb57")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1506803650]
+libraries/ = SubResource("AnimationLibrary_0g5nf")
+
+[connection signal="button_down" from="menu_btns/BTN_list" to="." method="_on_btn_list_button_down"]
+[connection signal="button_down" from="menu_btns/BTN_start" to="." method="_on_btn_start_button_down"]
+[connection signal="button_down" from="menu_btns/BTN_stop" to="." method="_on_btn_stop_button_down"]

@@ -1,0 +1,5420 @@
+[
+    {
+        "tempo": 0.0,
+        "nota_midi": 82,
+        "nota_nome": "A#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 0.0,
+        "nota_midi": 75,
+        "nota_nome": "D#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 0.0,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 0.4,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 0.4,
+        "nota_midi": 81,
+        "nota_nome": "A5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 0.8,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 0.8,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 1.2,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 1.4,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 1.8,
+        "nota_midi": 79,
+        "nota_nome": "G5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 2.0,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 2.8,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 3.2,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 3.2,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 3.2,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 3.6,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 3.6,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 3.8,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 4.0,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 4.4,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.4,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.4,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.44375,
+        "nota_midi": 75,
+        "nota_nome": "D#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.485416666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.529166666666667,
+        "nota_midi": 82,
+        "nota_nome": "A#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.8,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 6.8,
+        "nota_midi": 81,
+        "nota_nome": "A5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 7.2,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 7.2,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 7.6,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 7.8,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 8.2,
+        "nota_midi": 79,
+        "nota_nome": "G5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 8.4,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 9.2,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 9.6,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 9.6,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 10.0,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 10.0,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 10.2,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 10.4,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 10.8,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 12.8,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 12.8,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 12.84375,
+        "nota_midi": 75,
+        "nota_nome": "D#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 12.885416666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 12.929166666666667,
+        "nota_midi": 82,
+        "nota_nome": "A#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 13.2,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 13.2,
+        "nota_midi": 81,
+        "nota_nome": "A5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 13.6,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 13.6,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 13.799999999999999,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 14.0,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 14.2,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 14.6,
+        "nota_midi": 79,
+        "nota_nome": "G5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 14.799999999999999,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 15.6,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.0,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.0,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.0,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.4,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.4,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.6,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 16.8,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 18.8,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 19.0,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 19.0,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 19.2,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 19.6,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 20.0,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 20.4,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 20.6,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 21.2,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 21.6,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 22.0,
+        "nota_midi": 75,
+        "nota_nome": "D#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 22.2,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 22.4,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 22.8,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 23.2,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 23.6,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 24.4,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 24.8,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 25.2,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 25.6,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 25.6,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 25.664583333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 25.735416666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 26.004166666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 26.004166666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 26.204166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 26.404166666666665,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 26.604166666666668,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 26.804166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.004166666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.004166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.204166666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.404166666666665,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.404166666666665,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.604166666666668,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.604166666666668,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 27.804166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 28.004166666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 28.604166666666668,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 28.804166666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 28.804166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 28.804166666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 29.204166666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 29.204166666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 29.404166666666665,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 29.604166666666668,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 29.804166666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 30.208333333333332,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 30.208333333333332,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 30.808333333333334,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 31.208333333333332,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 31.608333333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.0125,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.0125,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.077083333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.14791666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.416666666666664,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.416666666666664,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.61666666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 32.81666666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 33.21666666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 33.416666666666664,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 33.416666666666664,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 33.61666666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 33.81666666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 34.016666666666666,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 34.016666666666666,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 34.21666666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 34.416666666666664,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.016666666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.21666666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.21666666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.21666666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.61666666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.61666666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 35.81666666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 36.016666666666666,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 36.21666666666667,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 36.62083333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 36.62083333333333,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 37.22083333333333,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 37.62083333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 37.62083333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.020833333333336,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.425,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.425,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.49166666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.56041666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.829166666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 38.829166666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 39.02916666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 39.229166666666664,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 39.42916666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 39.62916666666666,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 39.829166666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 39.829166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 40.02916666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 40.43333333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 40.43333333333333,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 40.63333333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 40.833333333333336,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 41.03333333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 41.233333333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 41.43333333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 41.43333333333333,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 41.63333333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.0375,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.0375,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.2375,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.4375,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.6375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.8375,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 42.8375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 43.6375,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 44.0375,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 44.44166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 44.44166666666666,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 44.641666666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 44.84166666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 45.24166666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 45.641666666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 45.84166666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 46.041666666666664,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 46.24166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 46.44166666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 46.641666666666666,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 46.84166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 46.84166666666667,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 47.041666666666664,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 47.24166666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 47.44166666666666,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 47.641666666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 47.84166666666667,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 48.24166666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 48.44166666666666,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 48.641666666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 6
+    },
+    {
+        "tempo": 48.84166666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 6
+    },
+    {
+        "tempo": 48.84166666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 6
+    },
+    {
+        "tempo": 49.041666666666664,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 5
+    },
+    {
+        "tempo": 49.24166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 5
+    },
+    {
+        "tempo": 49.44166666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 5
+    },
+    {
+        "tempo": 49.641666666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 4
+    },
+    {
+        "tempo": 51.24166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 51.24166666666667,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 51.24166666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 51.641666666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 51.641666666666666,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 52.041666666666664,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 52.041666666666664,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 52.44166666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 52.641666666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 53.041666666666664,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 53.24166666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 53.24166666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 53.641666666666666,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 54.041666666666664,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 54.24166666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 54.44166666666666,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 54.84583333333333,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 54.84583333333333,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 55.045833333333334,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 55.24583333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 55.44583333333333,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 55.645833333333336,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 56.052083333333336,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 56.10208333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 56.15208333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 56.202083333333334,
+        "nota_midi": 75,
+        "nota_nome": "D#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 56.85208333333333,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 56.85208333333333,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 57.25625,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 57.66041666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 57.66041666666666,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 57.66041666666666,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 58.0625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 58.0625,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 58.4625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 58.4625,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 58.8625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 59.0625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 59.4625,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 59.6625,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 59.6625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 60.0625,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 60.4625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 60.8625,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 60.8625,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 61.262499999999996,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 61.262499999999996,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 61.4625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 61.6625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 62.0625,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 62.0625,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 62.4625,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 62.4625,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 62.4625,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 63.262499999999996,
+        "nota_midi": 75,
+        "nota_nome": "D#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 63.262499999999996,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 63.6625,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 63.6625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.0625,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.0625,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.0625,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.46458333333334,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.46458333333334,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.86458333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 64.86458333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 65.26458333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 65.46458333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 65.86458333333333,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 66.06458333333333,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 66.06458333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 66.46458333333334,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 66.86458333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 67.26875,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 67.26875,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 67.66875,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 67.66875,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 67.86875,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 68.06875,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 68.46875,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 68.46875,
+        "nota_midi": 82,
+        "nota_nome": "A#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 68.86875,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 68.86875,
+        "nota_midi": 81,
+        "nota_nome": "A5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 68.86875,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 69.66875,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 69.66875,
+        "nota_midi": 82,
+        "nota_nome": "A#5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 69.66875,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 70.46875,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 70.51875,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 70.58333333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 70.65208333333334,
+        "nota_midi": 79,
+        "nota_nome": "G5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 71.47291666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 71.47291666666666,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 72.07291666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 72.07291666666667,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 72.07291666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 73.27291666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 73.47291666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 73.67291666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 74.07291666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 74.47291666666666,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 74.87291666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 74.87291666666667,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 75.27291666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 75.47291666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 75.47291666666666,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 75.67291666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 75.67291666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 76.07291666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 76.07291666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 76.47291666666666,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 7
+    },
+    {
+        "tempo": 76.47291666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 76.87291666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 76.87291666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 76.87291666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 77.27708333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 77.27708333333334,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 77.47708333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 77.67708333333333,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 78.07708333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 78.27708333333334,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 78.27708333333334,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 78.47708333333333,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 78.88125,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 78.88125,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 79.08125,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 79.28125,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 79.88125,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.08125,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.08125,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.08125,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.48125,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.48125,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.68125,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 80.88125,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 81.08125,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 81.48541666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 81.48541666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 81.48541666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 82.08541666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 82.48541666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 82.48541666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 82.88541666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 82.88541666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 83.28958333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 83.28958333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 83.28958333333333,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 83.69375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 83.69375,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 83.89375,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 84.09375,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 84.49375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 84.69375,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 84.89375,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 85.29791666666667,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 85.29791666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 85.49791666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 85.69791666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 85.69791666666667,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 86.29791666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 86.49791666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 86.49791666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 86.49791666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 86.89791666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 86.89791666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 87.09791666666666,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 87.09791666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 87.49791666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 87.49791666666667,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 87.89791666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 87.89791666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 88.49791666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 88.90208333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 88.90208333333334,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 89.30208333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 89.70625,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 89.70625,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 89.70625,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 90.11041666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 90.11041666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 90.31041666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 90.51041666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 90.91041666666666,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 91.11041666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 91.11041666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 91.31041666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 91.71458333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 91.71458333333334,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 91.91458333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 92.11458333333333,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 92.71458333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 92.91458333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 92.91458333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 92.91458333333333,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 93.31458333333333,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 93.31458333333333,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 93.51458333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 93.71458333333334,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 93.91458333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 93.91458333333333,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 94.31458333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 94.51458333333333,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 95.31458333333333,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 95.71458333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 95.91458333333333,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 96.11458333333333,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 96.51458333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 96.91458333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 97.31458333333333,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 97.51458333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 97.71458333333334,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 98.11875,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 98.11875,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 98.11875,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 98.31875,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 98.51875,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 98.91875,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 99.11875,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 99.31875,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 99.71875,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 100.11875,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 100.51875,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 100.51875,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 101.31875,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 101.72291666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 102.12291666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 102.32291666666667,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 102.52291666666666,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 102.92291666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 103.32291666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 103.52291666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 103.72291666666666,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 103.72291666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 103.92291666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.12291666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.32291666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.52291666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.52291666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.52291666666666,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.72291666666666,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 104.92291666666667,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 105.12291666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 105.32291666666667,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 105.52291666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 105.72291666666666,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 105.92291666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 106.12291666666667,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 106.32291666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 106.52291666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 106.52291666666666,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 106.72291666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 106.92291666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 107.12291666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 107.32291666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 107.32291666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 107.52291666666666,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 107.72291666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 107.92291666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 108.12291666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 8
+    },
+    {
+        "tempo": 108.12291666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 8
+    },
+    {
+        "tempo": 108.32291666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 108.52291666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 8
+    },
+    {
+        "tempo": 108.92291666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 108.92291666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.05624999999999,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.19166666666666,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.325,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.45833333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.59375,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.72708333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.72708333333333,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.72708333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.86041666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 109.99583333333334,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.12916666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.2625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.39791666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.52916666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.52916666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.6625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.79791666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 110.93124999999999,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.06458333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.2,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.33333333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.33333333333333,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.46666666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.60208333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.73541666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.86874999999999,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 111.86874999999999,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.00416666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.13541666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.13541666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.26875,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.40416666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.5375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.67083333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.80624999999999,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.93958333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 112.93958333333333,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.07291666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.20833333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.34166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.475,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.61041666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.74374999999999,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 113.87708333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.0125,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.14583333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.27916666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.41458333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.55,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.55,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.68333333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.81875,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 114.95208333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.08541666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.08541666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.22083333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.35208333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.35208333333333,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.48541666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.62083333333334,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.75416666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 115.8875,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.02291666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.15625,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.15625,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.15625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.28958333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.425,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.55833333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.69166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.82708333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.95833333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 116.95833333333333,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.09166666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.22708333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.36041666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.49374999999999,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.62916666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.7625,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.7625,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 117.89583333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.03125,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.16458333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.29791666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.29791666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.43333333333334,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.56458333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.56458333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.69791666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.83333333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 118.96666666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.1,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.23541666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.36874999999999,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.36874999999999,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.50208333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.6375,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.77083333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.90416666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 119.90416666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.03958333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.17083333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.17083333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.30416666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.43958333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.57291666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.70625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.84166666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.97291666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 120.97291666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.10625,
+        "nota_midi": 82,
+        "nota_nome": "A#5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.24166666666666,
+        "nota_midi": 81,
+        "nota_nome": "A5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.375,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.50833333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.64375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.77499999999999,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.77499999999999,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 121.90833333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.04375,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.17708333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.31041666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.44583333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.57916666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.57916666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.57916666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.71249999999999,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.84791666666666,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 122.98125,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.11458333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.25,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.38125,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.38125,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.51458333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.64999999999999,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.78333333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 123.91666666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.05208333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.18541666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.18541666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.18541666666667,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.31875,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.45416666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.58749999999999,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.72083333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.85625,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.9875,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 124.9875,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.12083333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.25625,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.38958333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.52291666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.65833333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.79166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.79166666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.79166666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 125.925,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.06041666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.19375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.32708333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.46249999999999,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.59583333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.72916666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.86458333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 126.99791666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.13125,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.26666666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.39999999999999,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.39999999999999,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.53333333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.66875,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.80208333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 127.93541666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.07083333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.20208333333332,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.20208333333332,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.33541666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.47083333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.60416666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.7375,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 128.87291666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.00625,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.00625,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.00625,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.13958333333332,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.275,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.40833333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.54166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.67708333333334,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.80833333333334,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.80833333333334,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 129.94166666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.07708333333332,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.21041666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.34375,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.47916666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.6125,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.6125,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.6125,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.74583333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 130.88125,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.01458333333332,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.14791666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.28333333333333,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.41458333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.41458333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.54791666666665,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.68333333333334,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.81666666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 131.95,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.08541666666667,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.21875,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.21875,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.21875,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.35208333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.4875,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.62083333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.75416666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 132.88958333333332,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.02083333333334,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.02083333333334,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.15416666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.28958333333333,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.42291666666665,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.55625,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.69166666666666,
+        "nota_midi": 77,
+        "nota_nome": "F5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.82291666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 133.95625,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 134.09166666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 134.225,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 134.35833333333332,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 134.49375,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 134.49375,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 134.625,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 134.625,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 134.625,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 136.225,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 136.275,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 136.325,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 136.375,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 137.825,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 137.825,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 137.825,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 138.22916666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 138.62916666666666,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 139.02916666666667,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 7
+    },
+    {
+        "tempo": 139.42916666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 7
+    },
+    {
+        "tempo": 141.82916666666665,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 18
+    },
+    {
+        "tempo": 141.82916666666665,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 18
+    },
+    {
+        "tempo": 141.82916666666665,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 18
+    },
+    {
+        "tempo": 142.62916666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 142.62916666666666,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 143.42916666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 143.42916666666667,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 144.22916666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 144.22916666666666,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 144.22916666666666,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 144.62916666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 144.62916666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 144.82916666666665,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 145.02916666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 145.43333333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 145.43333333333334,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 145.63333333333333,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 145.63333333333333,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 145.83333333333334,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 146.23333333333332,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 146.23333333333332,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 146.43333333333334,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 146.63333333333333,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 147.03333333333333,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 147.23333333333332,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 147.43333333333334,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 147.43333333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 147.43333333333334,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 147.83333333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 147.83333333333334,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 148.03333333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 148.23333333333332,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 148.43333333333334,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 148.83333333333334,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 149.03333333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 149.23333333333332,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 149.4375,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 149.4375,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 149.6375,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 149.8375,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 149.8375,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 150.0375,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 150.2375,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 150.2375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 150.2375,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 150.4375,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 150.6375,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 150.6375,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 150.6375,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 151.0375,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 151.0375,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 151.2375,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 151.4375,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 151.84166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 151.84166666666667,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 152.04166666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 152.04166666666666,
+        "nota_midi": 66,
+        "nota_nome": "F#4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 152.24166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 152.24166666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 152.64166666666665,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 152.64166666666665,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 152.84166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 153.04166666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 153.44166666666666,
+        "nota_midi": 54,
+        "nota_nome": "F#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 153.64166666666665,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 153.84166666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 153.84166666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 153.84166666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 154.04166666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.24166666666667,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.24166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.44166666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.44166666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.64166666666665,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 154.84166666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.84166666666667,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 154.84166666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 155.04166666666666,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 155.24166666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 155.24166666666667,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 155.44166666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 155.64166666666665,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 155.84583333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 155.84583333333333,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 156.04583333333332,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 156.24583333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 156.24583333333334,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 156.44583333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 156.64583333333334,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 156.64583333333334,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 156.84583333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 157.04583333333332,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 157.04583333333332,
+        "nota_midi": 63,
+        "nota_nome": "D#4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 157.04583333333332,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 157.44583333333333,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 157.44583333333333,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 157.64583333333334,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 157.84583333333333,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 158.04583333333332,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 158.24583333333334,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 158.65,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 19
+    },
+    {
+        "tempo": 158.65,
+        "nota_midi": 66,
+        "nota_nome": "F#4",
+        "velocidade": 19
+    },
+    {
+        "tempo": 158.65,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 159.05,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 159.05,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 159.25,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 159.45,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 159.85,
+        "nota_midi": 54,
+        "nota_nome": "F#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.05,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.05,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.25,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.25,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.25,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 160.65,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.65,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 160.85,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 161.05,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 161.25,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 161.25,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 161.65,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 161.85,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 162.05,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 162.25,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 162.45,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 162.65,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 162.85,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 163.05,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 163.05,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 163.25,
+        "nota_midi": 48,
+        "nota_nome": "C3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 163.25,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 163.45,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 163.85,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 164.25,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 164.65,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 164.65,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 164.85,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 14
+    },
+    {
+        "tempo": 164.85,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 165.05,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 165.45,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 165.45,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 165.65,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 165.85,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 166.25625,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 166.25625,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 166.45625,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 166.65625,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 166.85625,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 167.05625,
+        "nota_midi": 55,
+        "nota_nome": "G3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 167.25625,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 167.45625,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 167.65625,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 167.85625,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 168.05625,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 168.25625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 168.45625,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 168.65625,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 168.85625,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 169.06041666666667,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 19
+    },
+    {
+        "tempo": 169.26041666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 169.46041666666667,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 169.46041666666667,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 169.66041666666666,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 169.66041666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 14
+    },
+    {
+        "tempo": 169.86041666666665,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 14
+    },
+    {
+        "tempo": 170.66041666666666,
+        "nota_midi": 51,
+        "nota_nome": "D#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 170.86041666666665,
+        "nota_midi": 62,
+        "nota_nome": "D4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.06041666666667,
+        "nota_midi": 74,
+        "nota_nome": "D5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.06041666666667,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.26041666666666,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.46041666666667,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.66041666666666,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.86041666666665,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 171.86041666666665,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 172.06041666666667,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 172.26041666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 172.46041666666667,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 172.66041666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 172.91041666666666,
+        "nota_midi": 67,
+        "nota_nome": "G4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 173.16041666666666,
+        "nota_midi": 50,
+        "nota_nome": "D3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 173.41041666666666,
+        "nota_midi": 53,
+        "nota_nome": "F3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 173.61041666666665,
+        "nota_midi": 57,
+        "nota_nome": "A3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 173.86041666666665,
+        "nota_midi": 58,
+        "nota_nome": "A#3",
+        "velocidade": 9
+    },
+    {
+        "tempo": 174.11041666666665,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 174.11041666666665,
+        "nota_midi": 60,
+        "nota_nome": "C4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 174.36041666666665,
+        "nota_midi": 69,
+        "nota_nome": "A4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 174.66041666666666,
+        "nota_midi": 70,
+        "nota_nome": "A#4",
+        "velocidade": 9
+    },
+    {
+        "tempo": 175.06041666666667,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 175.61041666666665,
+        "nota_midi": 72,
+        "nota_nome": "C5",
+        "velocidade": 9
+    },
+    {
+        "tempo": 175.61041666666665,
+        "nota_midi": 65,
+        "nota_nome": "F4",
+        "velocidade": 9
+    }
+]
